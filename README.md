@@ -1,3 +1,2 @@
-# DEEPLEARNINGstudy
-![image](https://github.com/IM2COLD/DEEPLEARNINGstudy/assets/114397640/050117ee-5940-45d3-9f54-90225b57c880)
-### 1. 케라스 창시자에게 배우는 딥러닝
+# DEEPLEARNING & Pytorch
+<img width="400" height="514" alt="image" src="https://github.com/user-attachments/assets/abea5c5e-b248-4326-87c8-5be837611f3b" />
